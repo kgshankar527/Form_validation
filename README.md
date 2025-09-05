@@ -54,11 +54,15 @@
 ---
 
 ## 📂 Files
-- `index.html` → Registration Form + Validation Script
+- `index.html` → Registration Form
+- `style.css`  → Form style code
+- `main.js`   → Validation Script
 - `random.md` → Documentation (This File)
-- `abc.html` → Redirect success page (dummy page)
+- `abc.html` → Redirect success page (dummy page) Data Stor
 
 ---
-
+##🔹📝 Demo Live 
+click on link 👇
+(https://kgshankar527.github.io/Form_validation/)
 ✍️ **Author**: `kgshankar527`  
 📅 **Version**: 1.0.0
